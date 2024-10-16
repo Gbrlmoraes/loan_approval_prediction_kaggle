@@ -9,6 +9,7 @@ ipykernel = "*"
 seaborn = "*"
 black = {extras = ["jupyter"], version = "*"}
 scipy = "*"
+tensorflow = "*"
 
 [dev-packages]
 
